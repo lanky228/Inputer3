@@ -6,7 +6,7 @@ Sublime Text 3 插件，解决中文输入问题
 ## 安装
 >cd ~/.config/sublime-text-3/Packages
 
->git clone https://github.com/lanky288/Inputer3.git
+>git clone https://github.com/lanky228/Inputer3.git
 
 ## 使用
 - 快捷键: Ctrl+Space
